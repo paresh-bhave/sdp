@@ -1,0 +1,25 @@
+{
+  "name": "sdp",
+  "version": "1.0.0",
+  "description": "Software design patterns implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paresh-bhave/sdp.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js",
+    "Design",
+    "Patterns"
+  ],
+  "author": "Paresh Bhave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paresh-bhave/sdp/issues"
+  },
+  "homepage": "https://github.com/paresh-bhave/sdp#readme"
+}
