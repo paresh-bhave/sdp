@@ -8,4 +8,10 @@ Often, people only understand how to apply certain software design techniques to
 
 In addition, patterns allow developers to communicate using well-known, well understood names for software interactions. Common design patterns can be improved over time, making them more robust than ad-hoc designs.
 
-**SOURCE**: [https://sourcemaking.com/design_patterns](https://sourcemaking.com/design_patterns) 
+**SOURCE**: https://sourcemaking.com/design_patterns
+
+
+## Intent and Usagerepo
+The repo contains example implementations of some of the important design patterns in JavaScript (Node.js) langauge. You can clone or download the repository and run examples to see the working. Make sure you've stable version of node.js installed, preferably latest. I have not tested compatibility with other versions as this is meant for learning purpose.
+
+e.g. `node src/creational/singleton`
